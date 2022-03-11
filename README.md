@@ -11,3 +11,6 @@ Initially it will Display the Names of  Surahs. And then the user will select an
 Each Surah has been in English. 
 
 ## Here are the some Screenshots.
+
+
+![Quran1](https://github.com/kashiiitech/Android_app/blob/725cbef2b41baa06d3559fd1dce5e1e8b8accc2f/Outputs/quran1.png)
