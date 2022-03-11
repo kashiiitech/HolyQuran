@@ -12,7 +12,7 @@ Each Surah has been in English.
 
 ## Here are the some Screenshots.
 
-
+![Quran0](https://github.com/kashiiitech/Android_app/blob/ce636a572b6276b74ab9cbc579945ea381e6c8fa/Outputs/quran0.png)
 ![Quran1](https://github.com/kashiiitech/Android_app/blob/725cbef2b41baa06d3559fd1dce5e1e8b8accc2f/Outputs/quran1.png)
 
 ![Quran2](https://github.com/kashiiitech/Android_app/blob/725cbef2b41baa06d3559fd1dce5e1e8b8accc2f/Outputs/quran2.png)
