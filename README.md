@@ -14,6 +14,6 @@ Each Surah has been in English.
 
 
 ![Quran1](https://github.com/kashiiitech/Android_app/blob/725cbef2b41baa06d3559fd1dce5e1e8b8accc2f/Outputs/quran1.png)
-![Quran2](https://github.com/kashiiitech/Android_app/blob/725cbef2b41baa06d3559fd1dce5e1e8b8accc2f/Outputs/quran2.png)
 
+![Quran2](https://github.com/kashiiitech/Android_app/blob/725cbef2b41baa06d3559fd1dce5e1e8b8accc2f/Outputs/quran2.png)
 ![Quran3](https://github.com/kashiiitech/Android_app/blob/725cbef2b41baa06d3559fd1dce5e1e8b8accc2f/Outputs/quran3.png)
