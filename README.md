@@ -17,3 +17,13 @@ Each Surah has been in English.
 
 ![Quran2](https://github.com/kashiiitech/Android_app/blob/725cbef2b41baa06d3559fd1dce5e1e8b8accc2f/Outputs/quran2.png)
 ![Quran3](https://github.com/kashiiitech/Android_app/blob/725cbef2b41baa06d3559fd1dce5e1e8b8accc2f/Outputs/quran3.png)
+
+
+### I have also crated the Videos on YouTube here is the link.
+
+### https://www.youtube.com/watch?v=NzrVw_zhuEk&ab_channel=Kashiiitech
+
+
+### https://www.youtube.com/watch?v=pvSmXdQIfbo&ab_channel=Kashiiitech
+
+### 
